@@ -4,7 +4,9 @@ Crypto-Currencies Exchange Bot Crowdsale and Tokens contracts
 This repository contains 3 main contracts:
 
 1- TOKEN.sol : ERC20 Token contract - VOT definition with some other token specific capabilities
+
 2- Pre-ICO.sol : Pre-ICO handling contract
+
 3- ICO.sol : ICO handling contract
 
 You can review invot.io to know more about the project and documentation.
